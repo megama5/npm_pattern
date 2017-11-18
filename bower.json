@@ -1,0 +1,13 @@
+{
+  "name": "mine-project-name",
+  "main": "gulpfile.js",
+  "author": "Petya",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  }
+}
